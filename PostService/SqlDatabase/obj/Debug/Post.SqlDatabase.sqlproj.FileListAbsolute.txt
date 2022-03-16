@@ -1,0 +1,9 @@
+D:\2022\MyBlog\PostService\SqlDatabase\bin\Debug\Post.SqlDatabase.dacpac
+D:\2022\MyBlog\PostService\SqlDatabase\bin\Debug\SqlDatabase.dll
+D:\2022\MyBlog\PostService\SqlDatabase\bin\Debug\SqlDatabase.pdb
+D:\2022\MyBlog\PostService\SqlDatabase\obj\Debug\Model.xml
+D:\2022\MyBlog\PostService\SqlDatabase\obj\Debug\refactor.xml
+D:\2022\MyBlog\PostService\SqlDatabase\obj\Debug\postdeploy.sql
+D:\2022\MyBlog\PostService\SqlDatabase\obj\Debug\predeploy.sql
+D:\2022\MyBlog\PostService\SqlDatabase\obj\Debug\SqlDatabase.dll
+D:\2022\MyBlog\PostService\SqlDatabase\obj\Debug\SqlDatabase.pdb
