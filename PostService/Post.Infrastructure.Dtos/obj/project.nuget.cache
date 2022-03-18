@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "ASSlaKELj0jrijjKcgtas4ZRAgGn8OEDZ02twxP0HH20IYqt4utFC8Enrv2j59WSUGbOSJ1hiQSniycHoMVLQg==",
+  "dgSpecHash": "T4DsZyzAO5qURegjPL7oyCwMklG1XQbKmWKIM4rQYlYwhnP0kUD44dGJQ8odVv+6ZRHfx8RsEN5q8rqI3w9Kgw==",
   "success": true,
   "projectFilePath": "D:\\2022\\MyBlog\\PostService\\Post.Infrastructure.Dtos\\Post.Infrastructure.Dtos.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Dell\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
   "logs": []
 }

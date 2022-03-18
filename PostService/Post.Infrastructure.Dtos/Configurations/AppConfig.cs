@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Post.Infrastructure.Dtos.Configurations
 {
-    class AppConfig
+    public class AppSettingsConfiguration
     {
     }
 }

@@ -58,6 +58,7 @@
     <Folder Include="Properties" />
   </ItemGroup>
   <ItemGroup>
-    <Build Include="Table1.sql" />
+    <Build Include="Post.sql" />
+    <Build Include="Author.sql" />
   </ItemGroup>
 </Project>

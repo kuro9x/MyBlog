@@ -6,12 +6,19 @@
 
   <ItemGroup>
     <Folder Include="CommandHandlers\" />
-    <Folder Include="Commands\" />
     <Folder Include="Events\" />
     <Folder Include="EventHandlers\" />
     <Folder Include="Validators\" />
-    <Folder Include="QueryHandlers\" />
-    <Folder Include="Queries\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MediatR.Extensions.Microsoft.DependencyInjection" Version="10.0.1" />
+    <PackageReference Include="Microsoft.Extensions.Options" Version="6.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Post.Infrastructure.DAL\Post.Infrastructure.DAL.csproj" />
+    <ProjectReference Include="..\Post.Infrastructure.Dtos\Post.Infrastructure.Dtos.csproj" />
   </ItemGroup>
 
 </Project>
